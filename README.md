@@ -96,7 +96,8 @@ git clone [https://github.com/MinenhleNc/FinScope2.0.git]
 
 ### 📷 Screenshots
 
-*
+*![image](https://github.com/user-attachments/assets/9d934a8c-c846-4148-b082-bf69bbc6f953)
+
 
 ---
 
